@@ -46,5 +46,5 @@ It was created to fulfill a personal productivity need and as a challenge to use
 - [x] Basic interface with Qt5
 - [ ] Refining internal task handling to prevent UI freezing and optimize performance
 - [ ] Complete implementation of the GUI and its accompanying features
-- [ ] Trigger the application using the `WIN + V` shortcut
+- [x] Trigger the application using the `WIN/SUPER + C` ("C" OF CAT) shortcut
 - [ ] (Under study) Run the application as an OS background service
