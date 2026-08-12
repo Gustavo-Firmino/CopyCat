@@ -32,7 +32,6 @@ Ferramenta inspirada no **Windows Clipboard (`Win + V`)**, desenvolvida para tra
 
 * **Linguagem:** C++11 ou superior.
 * **Framework GUI:** Qt5 (Widgets).
-* **Armazenamento:** Persistência via `std::fstream` (File System).
 
 ---
 
