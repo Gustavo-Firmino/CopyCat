@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CopyCATWindow</class>
+ <widget class="QMainWindow" name="CopyCATWindow">
+  <property name="geometry">
+   <rect><x>0</x><y>0</y><width>350</width><height>450</height></rect>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="lblCount">
+      <property name="text"><string>Itens salvos: 0</string></property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QListView" name="listViewHistory"/>
+    </item>
+    <item>
+     <widget class="QPushButton" name="btnClear">
+      <property name="text"><string>Limpar Histórico</string></property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

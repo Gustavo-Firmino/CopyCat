@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+046052c0cc6114f0dd8ffb3cb7c8b910 CMakeFiles/CopyCat_autogen
+046052c0cc6114f0dd8ffb3cb7c8b910 CMakeFiles/CopyCat_autogen_timestamp_deps
+df3027bc778d6c48d8a1eb7187c51e85 CopyCat_autogen/timestamp

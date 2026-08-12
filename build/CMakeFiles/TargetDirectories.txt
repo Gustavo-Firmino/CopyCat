@@ -1,0 +1,5 @@
+/home/guss/Projects/CopyCat/build/CMakeFiles/CopyCat.dir
+/home/guss/Projects/CopyCat/build/CMakeFiles/edit_cache.dir
+/home/guss/Projects/CopyCat/build/CMakeFiles/rebuild_cache.dir
+/home/guss/Projects/CopyCat/build/CMakeFiles/CopyCat_autogen_timestamp_deps.dir
+/home/guss/Projects/CopyCat/build/CMakeFiles/CopyCat_autogen.dir
