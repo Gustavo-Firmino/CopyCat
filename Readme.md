@@ -11,46 +11,40 @@
 ![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Uma ferramenta robusta de gerenciamento de área de transferência desenvolvida em **C++** com a biblioteca **Qt5**, focada em performance e organização de histórico para usuários Linux.
+A robust clipboard management tool built with **C++** and the **Qt5** framework, focusing on performance and history management for Linux users.
 
-### O Projeto
-Ferramenta inspirada no **Windows Clipboard (`Win + V`)**, desenvolvida para trazer essa praticidade ao **Linux** de forma simples, leve e eficiente.
-É uma necessidade pessoal de produtividade e desafio de utilizar o **C++**, em conjunto com funcionalides desejadas:
-
----
-
-## 🚀 Funcionalidades Atuais
-
-- [x] **Arquitetura POO:** Código totalmente refatorado para Orientação a Objetos.
-- [x] **Persistência de Dados:** Histórico salvo automaticamente em arquivo de texto.
-- [x] **Interface Gráfica (GUI):** Interface intuitiva desenvolvida em Qt5.
-- [x] **Gestão de Itens:** Adição e limpeza rápida de itens do histórico.
+### The Project
+Inspired by the **Windows Clipboard (`Win + V`)**, this tool brings the same convenience to **Linux** in a simple, lightweight, and efficient way.  
+It was created to fulfill a personal productivity need and as a challenge to use **C++**, combined with the desired features below:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Current Features
 
-* **Linguagem:** C++11 ou superior.
-* **Framework GUI:** Qt5 (Widgets).
+- [x] **OOP Architecture:** Fully refactored codebase following Object-Oriented Programming principles.
+- [x] **Data Persistence:** History is automatically saved to a text file.
+- [x] **Graphical User Interface (GUI):** Intuitive interface built using Qt5.
+- [x] **Item Management:** Quick addition and clearing of history items.
 
 ---
 
-## 📦 Como Instalar e Rodar
+## 🛠️ Tech Stack
 
-### Pré-requisitos
-... Em desenvolvimento
+* **Language:** C++11 or higher.
+* **GUI Framework:** Qt5 (Widgets).
 
-### Próximos Passos (Checklist)
-[x] Conversão para POO
+---
 
-[x] Persistência em arquivo (Histórico)
+## 📦 Installation & Setup
 
-[x] Interface básica com Qt5 
+### Prerequisites
+... Under development
 
-[ ] Refinamento do sistema de Tasks internas, evitar o travamento da interface e preocupação com performance
-
-[ ] Implementação total da interface gráfica e funcionalidades que acompanham.
-
-[ ] Chamar a aplicação ao teclar o WIN + V
-
-[ ] (Em estudo) rodar a aplicação como um serviço do SO. 
+### Roadmap / Next Steps
+- [x] OOP Conversion
+- [x] File persistence (History)
+- [x] Basic interface with Qt5
+- [ ] Refining internal task handling to prevent UI freezing and optimize performance
+- [ ] Complete implementation of the GUI and its accompanying features
+- [ ] Trigger the application using the `WIN + V` shortcut
+- [ ] (Under study) Run the application as an OS background service
